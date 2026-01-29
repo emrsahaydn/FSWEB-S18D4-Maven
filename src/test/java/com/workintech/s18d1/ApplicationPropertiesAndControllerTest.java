@@ -57,7 +57,7 @@ class ApplicationPropertiesAndControllerTest {
         sampleBurger = new Burger();
         sampleBurger.setId(1L);
         sampleBurger.setName("Classic Burger");
-        sampleBurger.setPrice(7.99);
+        sampleBurger.setPrice(7);
         sampleBurger.setIsVegan(false);
         sampleBurger.setBreadType(BreadType.BURGER);
         sampleBurger.setContents("Beef, Lettuce, Tomato, Cheese");
